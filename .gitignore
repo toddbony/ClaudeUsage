@@ -1,0 +1,19 @@
+# Compiled app bundle — build locally with build.sh
+ClaudeUsage.app/
+
+# Intermediate build artifact
+ClaudeUsage
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Xcode
+*.xcodeproj/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+
+# Personal config — never commit your own accounts
+~/.claudeusage.json
