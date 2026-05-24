@@ -39,7 +39,7 @@ xcode-select --install
 ## Build & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ClaudeUsage.git
+git clone https://github.com/toddbony/ClaudeUsage.git
 cd ClaudeUsage
 bash build.sh
 xattr -cr ClaudeUsage.app && open ClaudeUsage.app
